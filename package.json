@@ -1,7 +1,7 @@
 {
-  "name": "homebridge-website-change-check",
+  "name": "@davidhekim/homebridge-website-change-check",
   "displayName": "Homebridge Website Change Check",
-  "version": "1.0.9",
+  "version": "1.0.9.2",
   "description": "Homebridge plugin for checking if a value on a website has changed.",
   "main": "dist/index.js",
   "scripts": {
@@ -19,27 +19,27 @@
   "funding": [
     {
       "type": "paypal",
-      "url": "https://paypal.me/marcveens"
+      "url": "https://paypal.me/davidhekim"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marcveens/homebridge-website-change-check.git"
+    "url": "git+https://github.com/davidhekim/homebridge-website-change-check.git"
   },
-  "author": "Marc Veens <marcveens@hotmail.com> (http://marcveens.nl/)",
+  "author": "David Hekim <d.hekim@hotmail.com> (https://hekim.dev/)",
   "engines": {
     "homebridge": ">=1.0.0"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/marcveens/homebridge-website-change-check/issues"
+    "url": "https://github.com/davidhekim/homebridge-website-change-check/issues"
   },
   "keywords": [
     "homebridge-plugin",
     "website-change-check",
     "change-updates"
   ],
-  "homepage": "https://github.com/marcveens/homebridge-website-change-check#readme",
+  "homepage": "https://github.com/davidhekim/homebridge-website-change-check#readme",
   "devDependencies": {
     "@babel/core": "^7.12.17",
     "@babel/preset-env": "^7.12.17",

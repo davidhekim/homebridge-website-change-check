@@ -3,7 +3,7 @@
     "pluginType": "platform",
     "singular": true,
     "headerDisplay": "Homebridge plugin for checking if a value on a website changes",
-    "footerDisplay": "For a detailed description, see the [README](https://github.com/marcveens/homebridge-website-change-check)",
+    "footerDisplay": "For a detailed description, see the [README](https://github.com/davidhekim/homebridge-website-change-check)",
     "schema": {
         "type": "object",
         "properties": {
