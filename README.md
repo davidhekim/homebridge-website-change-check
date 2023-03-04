@@ -1,14 +1,13 @@
 <span align="center">
 
-# homebridge-website-change-check
+# @davidhekim/homebridge-website-change-check
 
-[![verified-by-homebridge](https://badgen.net/badge/homebridge/verified/purple)](https://github.com/homebridge/homebridge/wiki/Verified-Plugins)
-[![homebridge-website-change-check](https://badgen.net/npm/v/homebridge-website-change-check?icon=npm)](https://www.npmjs.com/package/@davidhekim/homebridge-website-change-check)
-[![mit-license](https://badgen.net/npm/license/homebridge-website-change-check)](https://github.com/davidhekim/homebridge-website-change-check/blob/master/LICENSE)
+[![@davidhekim/homebridge-website-change-check](https://badgen.net/npm/v/@davidhekim/homebridge-website-change-check?icon=npm)](https://www.npmjs.com/package/@davidhekim/homebridge-website-change-check)
+[![mit-license](https://badgen.net/npm/license/@davidhekim/homebridge-website-change-check)](https://github.com/davidhekim/homebridge-website-change-check/blob/master/LICENSE)
 
 </span>
 
-`homebridge-website-change-check` is a plugin for homebridge which allows you to check if a value on a website has changed. The special part of this plugin is that values are checked using a headless browser. Therefor values can even be fetched on websites with asynchronous data calls.
+`@davidhekim/homebridge-website-change-check` is a plugin for homebridge which allows you to check if a value on a website has changed. The special part of this plugin is that values are checked using a headless browser. Therefor values can even be fetched on websites with asynchronous data calls.
 
 ## Installation
 
@@ -20,9 +19,9 @@ Install homebridge:
 sudo npm install -g homebridge
 ```
 
-Install homebridge-website-change-check:
+Install @davidhekim/homebridge-website-change-check:
 ```sh
-sudo npm install -g homebridge-website-change-check
+sudo npm install -g @davidhekim/homebridge-website-change-check
 ```
 
 In the Homebridge terminal, run:

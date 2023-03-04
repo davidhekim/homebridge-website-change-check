@@ -30,7 +30,7 @@
   "engines": {
     "homebridge": ">=1.0.0"
   },
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/davidhekim/homebridge-website-change-check/issues"
   },

@@ -14,7 +14,7 @@ import { updateAccessoryStateHandler } from './updateAccessoryStateHandler';
 
 type CustomPlatformConfig = PlatformConfig & Options;
 
-const PLUGIN_NAME = 'homebridge-website-change-check';
+const PLUGIN_NAME = '@davidhekim/homebridge-website-change-check';
 const PLATFORM_NAME = 'WebsiteChangeCheck';
 
 let hap: HAP;

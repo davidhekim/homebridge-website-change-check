@@ -5,7 +5,7 @@ Here's a guide for you on how to debug your script locally, including screenshot
 1. Download this repository to your local machine <br /><img src="docs/images/download-repo.jpg" alt="drawing" width="400"/>
 2. Make sure you have [Node.js](https://nodejs.org/) installed on your machine. 
 3. Also make sure you have [Chrome](https://www.google.com/chrome) installed on your machine. This will be used to run the test. Reference the Chrome executable in the `.env` file. For an example of how it should look, take a look at the `.env.example` file. 
-4. Using a command line, navigate to the downloaded "homebridge-website-change-check" folder on your machine.
+4. Using a command line, navigate to the downloaded " @davidhekim/homebridge-website-change-check" folder on your machine.
 5. Run `npm install` in the command line to install all the required packages for running the script locally.
 6. Run `npm run test:local` to see if the local test is working. One test is already configured by default. A success message should appear in the command line.
 
