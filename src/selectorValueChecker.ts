@@ -31,7 +31,7 @@ export const getValueFromPage = async (props: getValueFromPageProps) => {
 
         if (props.verboseLogging) { props.log('Browser initialized'); }
 
-        await page.goto(props.changeCheck.url, { waitUntil: 'load', timeout: 10000 });
+        await page.goto(props.changeCheck.url, { waitUntil: 'domcontentloaded', timeout: 10000 });
 
         if (props.debugMode) {
             await page.screenshot({ path: 'src/__tests__/screenshots/localDebugger-step-start.jpg', fullPage: true });
